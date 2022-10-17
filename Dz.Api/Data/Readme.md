@@ -1,0 +1,3 @@
+- sqllocaldb start "MSSQLLocalDB"
+- dotnet ef migrations add ""
+- dotnet ef database update
