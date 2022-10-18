@@ -2,8 +2,6 @@ import { Component, OnInit } from '@angular/core';
 
 import { User } from './user';
 import { UserService } from './user.service';
-import {PageEvent} from '@angular/material/paginator';
-
 
 @Component({
   selector: 'app-users',
